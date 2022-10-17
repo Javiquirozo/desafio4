@@ -1,0 +1,68 @@
+p, form-control {
+  font-family: 'Roboto', sans-serif, #707070;
+  font-weight: 300;
+  font-size: 16px;
+
+}
+
+h5 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+}
+
+.bg-green {
+  background-color: #2881a7;
+}
+
+.white{
+  color: #fff;
+}
+
+
+.navbar-brand {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+}
+
+.navbar-nav{
+  padding-left: 75%;
+}
+
+.form1 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  text-align: center;
+  font-size: 21px;
+}
+
+.h4 {
+  color: #28A745;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+}
+
+.container{
+  padding: 3%;
+}
+
+.container-sm {
+  max-width: 960px
+  padding: 9px;
+}
+
+.mb-3 {
+  font-size: 16px;
+}
+
+.img-fluid{
+  max-width: 82px;
+  height: auto;
+}
+
+.derechos {
+  color: #707070;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+}
